@@ -1,14 +1,12 @@
-total 44
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 numpy
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 pandas
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 PythonBasics1
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 PythonBasics2
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 PythonBasics3
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 PythonBasics4
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 PythonBasics5
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 PythonBasics6
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 PythonBasics7
-drwxrwxr-x 2 sein sein 4096 Mar 23 20:00 PythonBasics_Files
--rw-rw-r-- 1 sein sein   53 Mar 23 20:00 README.md
--rw-rw-r-- 1 sein sein    0 Mar 23 20:15 test.txt
--rw-rw-r-- 1 sein sein    0 Mar 23 20:16 text.txt
+numpy
+pandas
+PythonBasics1
+PythonBasics2
+PythonBasics3
+PythonBasics4
+PythonBasics5
+PythonBasics6
+PythonBasics7
+PythonBasics_Files
+README.md
+text.txt
