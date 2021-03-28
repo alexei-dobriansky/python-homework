@@ -1,0 +1,12 @@
+numpy
+pandas
+PythonBasics1
+PythonBasics2
+PythonBasics3
+PythonBasics4
+PythonBasics5
+PythonBasics6
+PythonBasics7
+PythonBasics_Files
+README.md
+text.txt
